@@ -1,6 +1,12 @@
 Anthos Config Management Samples 
 ============
 
+# This is a test samples for proj:rm....yor-gke-proj cluster:acm-cluster
+
+NOTE: Removing this repo will affect your GCP project.
+
+
+
 This repository contains samples for [Anthos Config Management][1].
 
 ## Examples 
